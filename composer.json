@@ -60,6 +60,6 @@
         {
             "type": "vcs",
             "url": "https://github.com/mhucik/dbal.git"
-        },
+        }
   ]
 }
